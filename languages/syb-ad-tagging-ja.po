@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ad Tagging 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ad-tagging\n"
+"POT-Creation-Date: 2024-01-17T10:00:24+00:00\n"
+"PO-Revision-Date: 2024-01-17 19:01+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Domain: syb-ad-tagging\n"
+
+#. Plugin Name of the plugin
+#: ad-tagging.php:41 ad-tagging.php:42 includes/view/tool.php:8
+msgid "Ad Tagging"
+msgstr ""
+
+#. Description of the plugin
+msgid "A plugin to add tag to affiliate posts."
+msgstr "アフィリエイト記事にタグを追加するプラグインです。"
+
+#. Author of the plugin
+msgid "shinya-blogger"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://note.com/shinya_blogger/"
+msgstr ""
+
+#: ad-tagging.php:47 ad-tagging.php:48 includes/view/option.php:8
+msgid "Ad Tagging Settings"
+msgstr "Ad Tagging 設定"
+
+#: includes/view/metabox.php:4
+msgid ""
+"If an affiliate link is included, the tag \"%1$s\" will be automatically "
+"added when the post is published/saved as draft."
+msgstr ""
+"アフィリエイトリンクが含まれている場合、投稿の公開／下書き保存時にタグ "
+"\"%1$s\" を自動追加します。"
+
+#: includes/view/option.php:31
+msgid "Affiliate URLs"
+msgstr "アフィリエイトURL"
+
+#: includes/view/option.php:35
+msgid "URL starting with https://"
+msgstr "https:// から始まるURL"
+
+#: includes/view/option.php:40
+msgid "Update tags when posting"
+msgstr "投稿時にタグを更新"
+
+#: includes/view/tool.php:20
+msgid ""
+"Tag names and affiliate URLs can be changed in the <a href=\"#\" v-on:"
+"click=\"openSetting\">Ad Tagging settings</a>."
+msgstr ""
+"タグ名やアフィリエイトURLは <a href=\"#\" v-on:click=\"openSetting\">Ad "
+"Tagging 設定</a> で変更できます。"
+
+#: includes/view/tool.php:37
+msgid "Search for affiliate posts"
+msgstr "アフィリエイト記事を検索"
+
+#: includes/view/tool.php:43
+msgid "Update tags on checked posts"
+msgstr "チェックした記事のタグを更新"
+
+#: includes/view/tool.php:51 includes/view/tool.php:77
+msgid "Number of posts:"
+msgstr "記事数:"
+
+#: includes/view/tool.php:59
+msgid "Tags before change"
+msgstr "タグ(変更前)"
+
+#: includes/view/tool.php:60
+msgid "Tags after change"
+msgstr "タグ(変更後)"
+
+#: assets/js/page/option.js:31
+msgid "Changes saved."
+msgstr "変更を保存しました  "
+
+#: assets/js/page/tool.js:47
+msgid "Updated tags for 1 post."
+msgstr "1件の記事のタグを更新しました。"
+
+#: assets/js/page/tool.js:50
+msgid "Updated tags for %d posts."
+msgstr "%d件の記事のタグを更新しました。"

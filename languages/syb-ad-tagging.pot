@@ -1,0 +1,93 @@
+# Copyright (C) 2024 shinya-blogger
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ad Tagging 0.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ad-tagging\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-01-17T10:00:24+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.9.0\n"
+"X-Domain: syb-ad-tagging\n"
+
+#. Plugin Name of the plugin
+#: ad-tagging.php:41
+#: ad-tagging.php:42
+#: includes/view/tool.php:8
+msgid "Ad Tagging"
+msgstr ""
+
+#. Description of the plugin
+msgid "A plugin to add tag to affiliate posts."
+msgstr ""
+
+#. Author of the plugin
+msgid "shinya-blogger"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://note.com/shinya_blogger/"
+msgstr ""
+
+#: ad-tagging.php:47
+#: ad-tagging.php:48
+#: includes/view/option.php:8
+msgid "Ad Tagging Settings"
+msgstr ""
+
+#: includes/view/metabox.php:4
+msgid "If an affiliate link is included, the tag \"%1$s\" will be automatically added when the post is published/saved as draft."
+msgstr ""
+
+#: includes/view/option.php:31
+msgid "Affiliate URLs"
+msgstr ""
+
+#: includes/view/option.php:35
+msgid "URL starting with https://"
+msgstr ""
+
+#: includes/view/option.php:40
+msgid "Update tags when posting"
+msgstr ""
+
+#: includes/view/tool.php:20
+msgid "Tag names and affiliate URLs can be changed in the <a href=\"#\" v-on:click=\"openSetting\">Ad Tagging settings</a>."
+msgstr ""
+
+#: includes/view/tool.php:37
+msgid "Search for affiliate posts"
+msgstr ""
+
+#: includes/view/tool.php:43
+msgid "Update tags on checked posts"
+msgstr ""
+
+#: includes/view/tool.php:51
+#: includes/view/tool.php:77
+msgid "Number of posts:"
+msgstr ""
+
+#: includes/view/tool.php:59
+msgid "Tags before change"
+msgstr ""
+
+#: includes/view/tool.php:60
+msgid "Tags after change"
+msgstr ""
+
+#: assets/js/page/option.js:31
+msgid "Changes saved."
+msgstr ""
+
+#: assets/js/page/tool.js:47
+msgid "Updated tags for 1 post."
+msgstr ""
+
+#: assets/js/page/tool.js:50
+msgid "Updated tags for %d posts."
+msgstr ""
